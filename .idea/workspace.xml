@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fef680-4e2c-4570-aa54-c8efa06fee7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unidade02/Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade01/Propriedades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade02/AplicacaoExpoente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade02/AplicacaoFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade02/AplicacaoMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade02/Avaliacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade02/EstruturasRepeticao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,18 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projetos/Curso_01_Desafios&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Operadores">
-    <configuration name="FaturamentoTrimestral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade02.FaturamentoTrimestral" />
+}</component>
+  <component name="RunManager" selected="Application.AplicacaoFibonacci">
+    <configuration name="AplicacaoExpoente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade02.AplicacaoExpoente" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade02.Operadores" />
+    <configuration name="AplicacaoFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade02.AplicacaoFibonacci" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
@@ -68,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unidade02.ExemploApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade02.ExemploApp" />
+    <configuration name="AplicacaoMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade02.AplicacaoMedia" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Unidade02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstruturasRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade02.EstruturasRepeticao" />
+      <module name="CursoJavaParaIniciantes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Propriedades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade01.Propriedades" />
+      <module name="CursoJavaParaIniciantes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,9 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operadores" />
-        <item itemvalue="Application.FaturamentoTrimestral" />
-        <item itemvalue="Application.Unidade02.ExemploApp" />
+        <item itemvalue="Application.AplicacaoFibonacci" />
+        <item itemvalue="Application.AplicacaoExpoente" />
+        <item itemvalue="Application.AplicacaoMedia" />
+        <item itemvalue="Application.EstruturasRepeticao" />
+        <item itemvalue="Application.Propriedades" />
       </list>
     </recent_temporary>
   </component>
