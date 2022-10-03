@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fef680-4e2c-4570-aa54-c8efa06fee7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unidade02/MatrizIdentidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade02/VetorAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade02/VetorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade02/AtividadesParaAprofundar/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade02/AtividadesParaAprofundar/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Locacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/SisalucarApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,26 +47,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MatrizIdentidade">
-    <configuration name="AplicacaoExpoente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade02.AplicacaoExpoente" />
+  <component name="RunManager" selected="Application.SisalucarApp">
+    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade02.AtividadesParaAprofundar.Exercicio01" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unidade02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AplicacaoFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade02.AplicacaoFibonacci" />
-      <module name="CursoJavaParaIniciantes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unidade02.*" />
+          <option name="PATTERN" value="Unidade02.AtividadesParaAprofundar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +67,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Unidade02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SisalucarApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade03.sisalucar.SisalucarApp" />
+      <module name="CursoJavaParaIniciantes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade03.sisalucar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SisalucarApp" />
+        <item itemvalue="Application.Exercicio01" />
         <item itemvalue="Application.MatrizIdentidade" />
         <item itemvalue="Application.VetorAB" />
         <item itemvalue="Application.VetorApp" />
-        <item itemvalue="Application.AplicacaoFibonacci" />
-        <item itemvalue="Application.AplicacaoExpoente" />
       </list>
     </recent_temporary>
   </component>
@@ -130,5 +133,16 @@
       <updated>1664326241689</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unidade03/sisalucar/SisalucarApp.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
