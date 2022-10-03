@@ -38,8 +38,10 @@ public class SisalucarApp {
     }
 
 
-    public void gerarRelatorioLocacao (LocalDate dataInicial, LocalDate dataFinal){
-        
+    public void gerarRelatorioLocacao (LocalDate ...datas){
+        float totalFaturado = 2 * 99.9f;
     }
+
+
 
 }
