@@ -5,35 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fef680-4e2c-4570-aa54-c8efa06fee7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Desafios/DesafiosAula0410/Desafio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Desafios/DesafiosAula0410/Desafio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade02/AtividadesParaAprofundar/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade02/AtividadesParaAprofundar/Exercicio04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/Restaurante/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/Restaurante/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/Restaurante/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Onibus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Revendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade04/Administrativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade04/Autenticavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade04/Cidadao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade04/Contribuinte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade04/Diretor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade04/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade04/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade03/AtividadesParaSeAprofundar/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unidade03/AtividadesParaSeAprofundar/Exercicio02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade02/AtividadesParaAprofundar/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade02/AtividadesParaAprofundar/Exercicio02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade03/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade03/sisalucar/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade03/sisalucar/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade03/sisalucar/Locacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/Locacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade03/sisalucar/SisalucarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/sisalucar/SisalucarApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade03/Restaurante/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/Restaurante/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade03/Restaurante/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/Restaurante/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,23 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projetos/Curso_01_Desafios&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Projetos/CursoJavaParaIniciantes",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.updates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Unidade03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio03">
+  <component name="RunManager" selected="Application.Unidade03.AtividadesParaSeAprofundar.Exercicio02">
     <configuration name="Desafio01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafios.DesafiosAula0410.Desafio01" />
       <module name="CursoJavaParaIniciantes" />
@@ -107,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade02.AtividadesParaAprofundar.Exercicio02" />
+    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade03.AtividadesParaSeAprofundar.Exercicio01" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unidade02.AtividadesParaAprofundar.*" />
+          <option name="PATTERN" value="Unidade03.AtividadesParaSeAprofundar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Funcionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade04.Funcionario" />
+    <configuration name="Unidade03.AtividadesParaSeAprofundar.Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade03.AtividadesParaSeAprofundar.Exercicio02" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unidade04.*" />
+          <option name="PATTERN" value="Unidade03.AtividadesParaSeAprofundar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Unidade03.AtividadesParaSeAprofundar.Exercicio02" />
+        <item itemvalue="Application.Exercicio01" />
         <item itemvalue="Application.Exercicio03" />
         <item itemvalue="Application.Desafio02" />
         <item itemvalue="Application.Exercicio04" />
-        <item itemvalue="Application.Exercicio02" />
-        <item itemvalue="Application.Funcionario" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +173,11 @@
           <url>file://$PROJECT_DIR$/src/Unidade02/AtividadesParaAprofundar/Exercicio03.java</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Unidade03/AtividadesParaSeAprofundar/Exercicio02.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
