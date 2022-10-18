@@ -1,4 +1,4 @@
-package Unidade04;
+package Unidade04.rh;
 
 public class Professor extends Funcionario implements Autenticavel, Cidadao, Contribuinte{
     @Override

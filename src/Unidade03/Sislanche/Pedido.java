@@ -7,7 +7,7 @@ public class Pedido {
     private int idPedido;
     private Cliente cliente;
     private ArrayList<Produto> produtos;
-    private double valorTotal;
+    private double valorTotal = 0;
     private String formaDePagamento;
 
     private static int contadorId = 1;
@@ -32,15 +32,19 @@ public class Pedido {
 
 
     public void listarPedido() {
-
+        System.out.println("Pedido: "+ idPedido);
+        System.out.println("Cliente "+ cliente.getNome());
+        for (Produto produto: produtos) {
+            System.out.println(produto.getNomeProduto()+ " -  "+ produto.getPreco());
+        }
+        System.out.println("Total: "+ valorTotal);
     }
 
     public void concluirPedido() {
+       listarPedido();
 
     }
 
-    public void cancelarPedido () {
 
-    }
 
 }

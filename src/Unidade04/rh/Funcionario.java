@@ -1,4 +1,4 @@
-package Unidade04;
+package Unidade04.rh;
 
 public abstract class Funcionario {
 

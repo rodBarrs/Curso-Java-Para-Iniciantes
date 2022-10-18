@@ -1,8 +1,8 @@
-package Desafios.DesafiosAula0410;
+package Unidade03;
 
 import javax.swing.*;
 
-public class Desafio01 {
+public class CalculadoraSwitchOptions {
 
     public static void main(String[] args) {
 

@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fef680-4e2c-4570-aa54-c8efa06fee7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/AtividadesParaSeAprofundar/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidade03/AtividadesParaSeAprofundar/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/netbiis/sisrestaurante/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/netbiis/sisrestaurante/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/netbiis/sisrestaurante/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/netbiis/sisrestaurante/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/netbiis/sisrestaurante/WasabiAPP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade03/Restaurante/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/Restaurante/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Unidade03/Restaurante/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/Restaurante/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/DesafiosAula0410/Desafio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/CalculadoraSwitchOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/DesafiosAula0410/Desafio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade03/emailRegex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade03/Restaurante/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade03/Restaurante/Pedido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade03/Restaurante/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade04/Administrativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade04/rh/Administrativo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade04/Autenticavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade04/rh/Autenticavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade04/Cidadao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade04/rh/Cidadao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade04/Contribuinte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade04/rh/Contribuinte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade04/Diretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade04/rh/Diretor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade04/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade04/rh/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unidade04/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unidade04/rh/Professor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +57,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Projetos/CursoJavaParaIniciantes",
+    "last_opened_file_path": "D:/Projetos/testeinfernal",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -52,17 +65,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projetos\CursoJavaParaIniciantes\src\Unidade03" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Unidade03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unidade03.AtividadesParaSeAprofundar.Exercicio02">
-    <configuration name="Desafio01" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafios.DesafiosAula0410.Desafio01" />
+  <component name="RunManager" selected="Application.WasabiAPP">
+    <configuration name="AppLAnches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade03.Restaurante.AppLAnches" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Desafios.DesafiosAula0410.*" />
+          <option name="PATTERN" value="Unidade03.Restaurante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Desafio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Desafios.DesafiosAula0410.Desafio02" />
+    <configuration name="CalculadoraSwitchOptions" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.DesafiosAula0410.CalculadoraSwitchOptions" />
       <module name="CursoJavaParaIniciantes" />
       <extension name="coverage">
         <pattern>
@@ -109,19 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade02.AtividadesParaAprofundar.Exercicio04" />
-      <module name="CursoJavaParaIniciantes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unidade02.AtividadesParaAprofundar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unidade03.AtividadesParaSeAprofundar.Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade03.AtividadesParaSeAprofundar.Exercicio02" />
       <module name="CursoJavaParaIniciantes" />
@@ -135,13 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WasabiAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netbiis.sisrestaurante.WasabiAPP" />
+      <module name="CursoJavaParaIniciantes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netbiis.sisrestaurante.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WasabiAPP" />
+        <item itemvalue="Application.AppLAnches" />
         <item itemvalue="Application.Unidade03.AtividadesParaSeAprofundar.Exercicio02" />
         <item itemvalue="Application.Exercicio01" />
         <item itemvalue="Application.Exercicio03" />
-        <item itemvalue="Application.Desafio02" />
-        <item itemvalue="Application.Exercicio04" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +194,11 @@
           <url>file://$PROJECT_DIR$/src/Unidade03/AtividadesParaSeAprofundar/Exercicio02.java</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/netbiis/sisrestaurante/Pedido.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

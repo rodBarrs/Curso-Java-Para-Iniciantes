@@ -1,10 +1,10 @@
-package Desafios.DesafiosAula0410;
+package Unidade03;
 
 import javax.swing.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Desafio02 {
+public class emailRegex {
 
     public static void main(String[] args) {
 
